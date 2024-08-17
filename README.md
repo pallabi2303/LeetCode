@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pallabi2303/LeetCode/tree/master/0001-two-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/pallabi2303/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0870-magic-squares-in-grid](https://github.com/pallabi2303/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/pallabi2303/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/pallabi2303/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/pallabi2303/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pallabi2303/LeetCode/tree/master/0001-two-sum) |
+| [0870-magic-squares-in-grid](https://github.com/pallabi2303/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/pallabi2303/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pallabi2303/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pallabi2303/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/pallabi2303/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/pallabi2303/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/pallabi2303/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/pallabi2303/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/pallabi2303/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Simulation
