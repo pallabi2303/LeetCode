@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pallabi2303/LeetCode/tree/master/0001-two-sum) |
+| [0264-ugly-number-ii](https://github.com/pallabi2303/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/pallabi2303/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/pallabi2303/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pallabi2303/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/pallabi2303/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/pallabi2303/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/pallabi2303/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1236-n-th-tribonacci-number](https://github.com/pallabi2303/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -104,10 +106,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/pallabi2303/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/pallabi2303/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pallabi2303/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Memoization
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/pallabi2303/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/pallabi2303/LeetCode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
