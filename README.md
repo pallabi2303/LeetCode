@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/pallabi2303/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/pallabi2303/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/pallabi2303/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1240-stone-game-ii](https://github.com/pallabi2303/LeetCode/tree/master/1240-stone-game-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pallabi2303/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pallabi2303/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pallabi2303/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/pallabi2303/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/pallabi2303/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1236-n-th-tribonacci-number](https://github.com/pallabi2303/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1240-stone-game-ii](https://github.com/pallabi2303/LeetCode/tree/master/1240-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/pallabi2303/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/pallabi2303/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1236-n-th-tribonacci-number](https://github.com/pallabi2303/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1240-stone-game-ii](https://github.com/pallabi2303/LeetCode/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pallabi2303/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Memoization
 |  |
@@ -119,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/pallabi2303/LeetCode/tree/master/0264-ugly-number-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/pallabi2303/LeetCode/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/pallabi2303/LeetCode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
