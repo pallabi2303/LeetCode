@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/pallabi2303/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/pallabi2303/LeetCode/tree/master/0664-strange-printer) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pallabi2303/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/pallabi2303/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pallabi2303/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/pallabi2303/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/pallabi2303/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/pallabi2303/LeetCode/tree/master/0664-strange-printer) |
 | [1236-n-th-tribonacci-number](https://github.com/pallabi2303/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/pallabi2303/LeetCode/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pallabi2303/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
