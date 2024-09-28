@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/pallabi2303/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/pallabi2303/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/pallabi2303/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0859-design-circular-deque](https://github.com/pallabi2303/LeetCode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/pallabi2303/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/pallabi2303/LeetCode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/pallabi2303/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/pallabi2303/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/pallabi2303/LeetCode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/pallabi2303/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/pallabi2303/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/pallabi2303/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -278,4 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/pallabi2303/LeetCode/tree/master/0214-shortest-palindrome) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/pallabi2303/LeetCode/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/pallabi2303/LeetCode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
